@@ -1,1 +1,13 @@
-{"name":"Little Steps Learning","short_name":"Little Steps","start_url":"./","display":"standalone","background_color":"#fff7ec","theme_color":"#f8cfe1","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+{
+  "name": "Little Steps Learning",
+  "short_name": "Little Steps",
+  "description": "A playful, parent-guided learning app for preschool children.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff8ef",
+  "theme_color": "#f7c7dc",
+  "icons": [
+    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
